@@ -28,6 +28,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
