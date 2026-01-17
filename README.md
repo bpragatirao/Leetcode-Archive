@@ -41,8 +41,13 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
