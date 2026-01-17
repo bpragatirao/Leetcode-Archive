@@ -32,4 +32,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
