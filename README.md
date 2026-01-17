@@ -37,6 +37,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0009-palindrome-number) |
 ## String
 |  |
