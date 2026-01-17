@@ -1,2 +1,23 @@
 # Leetcode-Archive
+
 A comprehensive collection of algorithmic solutions and data structure implementations from LeetCode. Curated during my M.Tech in Data Science at NITK to strengthen problem-solving and computational efficiency.
+
+# 🏆 LeetCode Archive: Mastering Algorithms
+
+This repository serves as a live record of my journey through Data Structures and Algorithms (DSA). As a **System Developer** transitioning into **Data Science at NITK**, I focus on writing code that is not only functional but also optimized for time and space complexity.
+
+## 📊 Strategy & Progress
+- **Primary Languages:** Python (for ML/DS context) & C++ (for System Dev context).
+- **Focus Areas:** Dynamic Programming, Graph Theory, Trees, and Array Manipulation.
+- **Sync Method:** Automatically updated via [LeetHub](https://github.com/Qian_Guo/LeetHub).
+
+## 🗂️ Repository Structure
+The solutions are organized by problem name and difficulty. Each folder contains:
+1.  **Solution File:** The optimized code (e.g., `.py`).
+2.  **README.md:** Problem description and complexity analysis.
+
+## 🚀 Why DSA?
+In the world of **Data Science**, algorithmic efficiency is key to handling Large Language Models (LLMs) and Big Data. In **System Development**, it's the foundation of low-latency performance. This repository tracks my mastery of both.
+
+---
+*“Better code, better systems, better insights.”*
