@@ -29,6 +29,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0001-two-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
