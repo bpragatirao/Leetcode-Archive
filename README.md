@@ -40,6 +40,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
@@ -77,9 +78,11 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
