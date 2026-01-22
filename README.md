@@ -37,6 +37,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -85,4 +87,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0002-add-two-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
