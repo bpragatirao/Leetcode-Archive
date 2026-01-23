@@ -29,6 +29,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0001-two-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
@@ -70,6 +71,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -91,4 +93,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
