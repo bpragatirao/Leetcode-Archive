@@ -80,6 +80,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 ## Two Pointers
@@ -130,6 +131,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0100-same-tree) |
@@ -152,6 +154,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0100-same-tree) |
@@ -174,6 +177,11 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
