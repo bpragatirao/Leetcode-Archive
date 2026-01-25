@@ -35,6 +35,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 ## Hash Table
@@ -138,6 +139,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0101-symmetric-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
@@ -165,6 +167,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0101-symmetric-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
@@ -188,8 +191,13 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
