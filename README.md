@@ -69,6 +69,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +116,16 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
