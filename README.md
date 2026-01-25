@@ -128,6 +128,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0102-binary-tree-level-order-traversal) |
@@ -138,6 +139,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -147,6 +149,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0102-binary-tree-level-order-traversal) |
@@ -164,4 +167,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
