@@ -34,6 +34,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0027-remove-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -103,6 +105,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
