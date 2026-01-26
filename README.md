@@ -51,6 +51,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0007-reverse-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
@@ -64,6 +65,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0125-valid-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 ## Trie
@@ -184,6 +186,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
 ## Binary Search Tree
 |  |
@@ -200,4 +203,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
