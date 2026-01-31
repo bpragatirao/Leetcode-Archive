@@ -219,4 +219,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
