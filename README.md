@@ -41,6 +41,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0012-integer-to-roman](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
+| [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +139,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
