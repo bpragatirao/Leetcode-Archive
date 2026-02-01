@@ -40,6 +40,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
