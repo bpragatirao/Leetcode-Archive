@@ -38,6 +38,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -227,4 +230,12 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0176-second-highest-salary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0183-customers-who-never-order) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
