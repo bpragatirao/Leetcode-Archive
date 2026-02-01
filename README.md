@@ -28,6 +28,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -136,6 +137,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
 ## Memoization
@@ -214,6 +216,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Simulation
 |  |
