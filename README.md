@@ -38,6 +38,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +65,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0125-valid-palindrome](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
