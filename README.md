@@ -40,6 +40,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0012-integer-to-roman](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -68,6 +70,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -145,6 +148,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -152,6 +156,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 ## Memoization
 |  |
@@ -215,6 +220,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
 | ------- |
