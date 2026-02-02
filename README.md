@@ -34,6 +34,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -106,6 +107,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
@@ -238,6 +240,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
