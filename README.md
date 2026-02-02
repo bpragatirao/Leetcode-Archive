@@ -43,6 +43,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
@@ -55,6 +56,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0013-roman-to-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -255,4 +257,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
