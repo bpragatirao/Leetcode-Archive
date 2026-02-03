@@ -48,6 +48,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1408-string-matching-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,6 +64,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -281,4 +283,5 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
