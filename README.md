@@ -49,6 +49,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
@@ -254,6 +256,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
 | ------- |
