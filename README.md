@@ -35,6 +35,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0027-remove-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0075-sort-colors) |
@@ -75,6 +76,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0009-palindrome-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
@@ -286,4 +288,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
