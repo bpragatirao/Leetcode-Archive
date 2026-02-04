@@ -38,6 +38,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -62,6 +63,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
@@ -292,4 +294,5 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
