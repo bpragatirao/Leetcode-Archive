@@ -42,6 +42,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0075-sort-colors](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0012-integer-to-roman](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
@@ -295,4 +297,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
