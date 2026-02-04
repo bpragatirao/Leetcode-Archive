@@ -34,6 +34,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
@@ -179,6 +180,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
