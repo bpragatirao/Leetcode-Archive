@@ -47,6 +47,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
@@ -188,6 +189,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
