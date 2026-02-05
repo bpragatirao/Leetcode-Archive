@@ -45,6 +45,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
@@ -183,6 +184,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 ## Memoization
