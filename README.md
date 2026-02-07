@@ -60,6 +60,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0875-koko-eating-bananas](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0875-koko-eating-bananas) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1408-string-matching-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
@@ -195,6 +196,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1539-kth-missing-positive-number) |
 ## Memoization
 |  |
 | ------- |
