@@ -54,6 +54,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
@@ -135,6 +136,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
+| [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 ## Two Pointers
 |  |
@@ -196,6 +198,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -304,6 +307,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -319,4 +323,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
