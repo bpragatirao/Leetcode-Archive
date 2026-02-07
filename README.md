@@ -58,6 +58,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1408-string-matching-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1539-kth-missing-positive-number) |
@@ -196,6 +197,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1539-kth-missing-positive-number) |
 ## Memoization
 |  |
