@@ -81,6 +81,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +120,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0796-rotate-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0796-rotate-string) |
