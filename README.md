@@ -119,6 +119,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0125-valid-palindrome](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
+| [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1408-string-matching-in-an-array) |
 ## Trie
 |  |
@@ -131,6 +132,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
