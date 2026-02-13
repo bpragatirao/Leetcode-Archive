@@ -169,6 +169,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0125-valid-palindrome](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0234-palindrome-linked-list) |
@@ -191,6 +192,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0237-delete-node-in-a-linked-list) |
@@ -214,6 +216,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0015-3sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
@@ -320,6 +323,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0004-median-of-two-sorted-arrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0240-search-a-2d-matrix-ii) |
@@ -368,4 +372,8 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
