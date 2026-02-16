@@ -190,6 +190,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0002-add-two-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
@@ -206,6 +207,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0002-add-two-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
