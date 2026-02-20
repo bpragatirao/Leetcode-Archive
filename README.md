@@ -106,6 +106,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
+| [1922-count-good-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0025-reverse-nodes-in-k-group](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
