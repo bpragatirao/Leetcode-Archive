@@ -37,6 +37,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0033-search-in-rotated-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0066-plus-one) |
@@ -324,6 +325,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 ## Divide and Conquer
 |  |
