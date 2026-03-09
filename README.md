@@ -45,6 +45,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0090-subsets-ii) |
@@ -128,6 +129,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0038-count-and-say](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0205-isomorphic-strings) |
@@ -280,6 +282,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0100-same-tree) |
@@ -334,6 +337,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0216-combination-sum-iii) |
@@ -382,6 +386,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0048-rotate-image](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
