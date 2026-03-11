@@ -2,9 +2,9 @@ class Solution:
     def addOperators(self, num: str, target: int) -> List[str]:
         res = []
         
-        def solve(i, path, curr, prev_val):
+        def solve(i, path, curr_res, prev_val):
             if i == len(num):
-                if curr == target:
+                if curr_res == target:
                     res.append(path)
                 return
 
@@ -18,12 +18,12 @@ class Solution:
                 if i == 0:
                     solve(j + 1, curr_str, curr_val, curr_val)
                 else:
-                    solve(j + 1, path + "+" + curr_str, curr + curr_val, curr_val)
+                    solve(j + 1, path + "+" + curr_str, curr_res + curr_val, curr_val)
                     
-                    solve(j + 1, path + "-" + curr_str, curr - curr_val, -curr_val)
+                    solve(j + 1, path + "-" + curr_str, curr_res - curr_val, -curr_val)
 
                     solve(j + 1, path + "*" + curr_str, 
-                              (curr - prev_val) + (prev_val * curr_val), 
+                              (curr_res - prev_val) + (prev_val * curr_val), 
                               prev_val * curr_val)
 
         solve(0, "", 0, 0)
