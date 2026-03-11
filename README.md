@@ -115,6 +115,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -137,6 +138,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0282-expression-add-operators) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0796-rotate-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
@@ -346,6 +348,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0090-subsets-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0282-expression-add-operators) |
 ## Divide and Conquer
 |  |
 | ------- |
