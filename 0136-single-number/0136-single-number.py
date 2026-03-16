@@ -5,5 +5,5 @@ class Solution:
         n = Counter(nums)
         
         for i,k in enumerate(n):
-            if n[k]==1:
+            if n[k]<2:
                 return k
