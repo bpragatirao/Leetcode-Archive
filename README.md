@@ -59,6 +59,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0162-find-peak-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0240-search-a-2d-matrix-ii) |
@@ -116,6 +117,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0070-climbing-stairs](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1922-count-good-numbers) |
@@ -416,4 +418,12 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
