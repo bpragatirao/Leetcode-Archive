@@ -47,6 +47,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0088-merge-sorted-array) |
@@ -328,6 +329,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0029-divide-two-integers](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
@@ -347,6 +349,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0039-combination-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
