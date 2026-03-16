@@ -22,9 +22,7 @@ class Solution:
                     
                     solve(j + 1, path + "-" + curr_str, curr_res - curr_val, -curr_val)
 
-                    solve(j + 1, path + "*" + curr_str, 
-                              (curr_res - prev_val) + (prev_val * curr_val), 
-                              prev_val * curr_val)
+                    solve(j + 1, path + "*" + curr_str, (curr_res - prev_val) + (prev_val * curr_val), prev_val * curr_val)
 
         solve(0, "", 0, 0)
         return res
