@@ -13,7 +13,7 @@ class Solution:
 
             while a >= (temp_div << 1):
                 temp_div <<= 1
-                count += count
+                count <<= 1
 
             a -= temp_div
             res += count
