@@ -160,6 +160,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0094-binary-tree-inorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
@@ -430,9 +431,11 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
