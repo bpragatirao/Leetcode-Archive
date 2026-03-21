@@ -82,6 +82,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [1539-kth-missing-positive-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -177,6 +178,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0907-sum-of-subarray-minimums](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -462,4 +464,5 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0496-next-greater-element-i](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
