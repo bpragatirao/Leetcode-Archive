@@ -151,6 +151,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0205-isomorphic-strings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0796-rotate-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
@@ -173,6 +174,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0225-implement-stack-using-queues](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0735-asteroid-collision) |
@@ -435,6 +437,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
 ## Merge Sort
 |  |
@@ -463,6 +466,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0907-sum-of-subarray-minimums) |
