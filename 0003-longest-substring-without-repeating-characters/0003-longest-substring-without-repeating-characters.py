@@ -1,16 +1,16 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         cmap = {}
-        left = 0
+        l = 0
         maxl = 0
 
-        for right, ch in enumerate(s):
-            if ch in cmap and cmap[ch]>=left:
-                left = cmap[ch]+1
+        for r, ch in enumerate(s):
+            if ch in cmap and cmap[ch]>=l:
+                l = cmap[ch]+1
 
-            cmap[ch] = right
+            cmap[ch] = r
 
-            maxl = max(maxl,right - left + 1)
+            maxl = max(maxl,r - l + 1)
         return maxl
 
             
