@@ -107,6 +107,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0205-isomorphic-strings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -155,6 +156,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0796-rotate-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
@@ -263,6 +265,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
