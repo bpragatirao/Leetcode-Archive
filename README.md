@@ -77,6 +77,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0735-asteroid-collision](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -110,6 +111,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0424-longest-repeating-character-replacement](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
@@ -266,6 +268,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -424,6 +427,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
