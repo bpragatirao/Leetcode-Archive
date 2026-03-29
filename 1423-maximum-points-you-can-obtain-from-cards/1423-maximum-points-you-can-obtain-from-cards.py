@@ -1,6 +1,5 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
-        suml, sumr = 0, 0
         n = len(cardPoints)
 
         if not cardPoints:
