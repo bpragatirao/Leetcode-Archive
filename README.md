@@ -114,6 +114,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
@@ -165,6 +166,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0474-ones-and-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0474-ones-and-zeroes) |
 | [0796-rotate-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -274,6 +276,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
