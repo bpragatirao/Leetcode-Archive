@@ -102,6 +102,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0141-linked-list-cycle) |
@@ -156,6 +157,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0038-count-and-say](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0151-reverse-words-in-a-string) |
@@ -273,6 +275,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1004-max-consecutive-ones-iii) |
