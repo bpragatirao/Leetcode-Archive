@@ -5,21 +5,19 @@ class Solution:
         dt = Counter(t)
         req = len(dt)
         l, r = 0, 0
-        f = 0
+        res = 0
         count = {}
         ans = float("inf"), None, None
         while r < len(s):
-            ch = s[r]
-            count[ch] = count.get(ch, 0) + 1
-            if ch in dt and count[ch] == dt[ch]:
-                f += 1
-            while l <= r and f == req:
-                ch = s[l]
+            count[s[r]] = count.get(s[r], 0) + 1
+            if s[r] in dt and count[s[r]] == dt[s[r]]:
+                res += 1
+            while l <= r and res == req:
                 if r - l + 1 < ans[0]:
                     ans = (r - l + 1, l, r)
-                count[ch] -= 1
-                if ch in dt and count[ch] < dt[ch]:
-                    f -= 1
+                count[s[l]] -= 1
+                if s[l] in dt and count[s[l]] < dt[s[l]]:
+                    res -= 1
                 l += 1    
             r += 1    
             
