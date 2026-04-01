@@ -14,6 +14,6 @@ class Solution:
             res.append(root.val)
             traverse(root.left)
             traverse(root.right)
-            return res
+            
         traverse(root)
         return res
