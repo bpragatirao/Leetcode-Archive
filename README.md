@@ -115,6 +115,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0496-next-greater-element-i](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -293,6 +294,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0215-kth-largest-element-in-an-array](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0268-missing-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/bpragatirao/Leetcode-Archive/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -337,6 +339,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0144-binary-tree-preorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -351,6 +354,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0144-binary-tree-preorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +372,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0144-binary-tree-preorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -377,6 +382,7 @@ In the world of **Data Science**, algorithmic efficiency is key to handling Larg
 | [0104-maximum-depth-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0112-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bpragatirao/Leetcode-Archive/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
