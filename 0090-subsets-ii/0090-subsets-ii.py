@@ -3,15 +3,15 @@ class Solution:
         res = []
         nums.sort()
 
-        def subs(start,sub):
+        def subs(i,sub):
             res.append(list(sub))
 
-            for i in range(start,len(nums)):
-                if i> start and nums[i]==nums[i-1]:
+            for j in range(i,len(nums)):
+                if j> i and nums[j]==nums[j-1]:
                     continue
 
-                sub.append(nums[i])
-                subs(i+1,sub)
+                sub.append(nums[j])
+                subs(j+1,sub)
                 sub.pop()
         subs(0,[])
         return res
